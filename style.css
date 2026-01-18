@@ -1,0 +1,28 @@
+main table {
+    border-collapse:collapse;
+    border:1px solid black;
+    text-align: center;
+    margin-left: 700px;
+}
+
+.red {
+   background-color:red;
+}
+
+.yellow {
+    background-color:yellow;
+}
+
+.haha {
+    margin-left: 70px;
+}
+
+.bolhoe {
+    width: 250px;
+    height:400px;
+}
+
+.tee {
+    margin-left: 100;
+    margin-top: 50;
+}
